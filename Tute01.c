@@ -12,7 +12,7 @@ int main() {
    printf("Enter the mark 2: ");
    scanf("%f", &m2);
    
-   avg = (m1+m2)/2;
+   avg = (m1+m2)/2.00;
    
    printf("\nAverage is: %.2f", avg);
   
